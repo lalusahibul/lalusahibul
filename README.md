@@ -27,14 +27,14 @@
   <a href="https://linkedin.com/in/lalu-sahibul-purwa">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
+     <a href="mailto:lalusahibulpurwa@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-red.svg?logo=Gmail&logoColor=white" />
+  </a>
   <a href="https://x.com/lalusahibulprw">
     <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
   </a>
   <a href="https://facebook.com/lalusahibulprw">
     <img src="https://img.shields.io/badge/facebook-blue.svg?logo=Facebook&logoColor=white" />
-  </a>
-  <a href="mailto:lalusahibulpurwa@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-red.svg?logo=Gmail&logoColor=white" />
   </a>
 </div>
 
@@ -51,7 +51,7 @@
 <hr/>
 
 <div align="center">
-  <h2>My Contributions</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/lalusahibul/lalusahibul/output/github-contribution-grid-snake.svg" />
   
