@@ -1,9 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lalusahibul.lalusahibul" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+there%2C;The+angel+from+my+nightmare;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hello+there%2C;The+angel+from+my+nightmare;" />
 </h1>
-
+<div align="center">
+<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1683547373601/25ecb286-fc4c-4c87-963b-32294d945322.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" target="_blank" width="600">
+</div>
 <h3 align="center">Wants to be a programmer but never did</h3>
 
 <br/>
@@ -19,15 +21,21 @@
  </div>
  
 <div align="center"> 
+  <a href="https://instagram.com/lalusahibul_/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/lalu-sahibul-purwa">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/lalusahibulprw">
+    <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/lalusahibulprw">
+    <img src="https://img.shields.io/badge/facebook-blue.svg?logo=Facebook&logoColor=white" />
+  </a>
   <a href="mailto:lalusahibulpurwa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/gmail-red.svg?logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/lalu-sahibul-purwa" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
 </div>
 
  <hr/>
